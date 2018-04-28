@@ -1,16 +1,19 @@
 <div align="center">
   <h1> csprng </h1>
       <p>
-          <a href="https://github.com/jcoglan/node-csprng/blob/master/LICENSE.md"><!--
+          <a href="https://github.com/favna/node-csprng/blob/master/LICENSE.md"><!--
               --><img src="https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge" alt="license" /><!--
       --></a><!--
-      --><a href="https://www.npmjs.com/package/csprng"><!-- 
+      --><a href="https://www.npmjs.com/package/csprng-64"><!-- 
           --><img src="https://img.shields.io/npm/dw/localeval.svg?style=for-the-badge" alt="npm" /><!--
+      --></a><!--
+      --><a href="https://circleci.com/gh/Favna/node-csprng"><!-- 
+          --><img src="https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg?style=for-the-badge" alt="CircleCI" /><!--
       --></a>
       </p>
       <p>
-          <a href="https://nodei.co/npm/csprng/">
-              <img src="https://nodei.co/npm/csprng.png" alt="NPM" />
+          <a href="https://nodei.co/npm/csprng-64/">
+              <img src="https://nodei.co/npm/csprng-64.png" alt="NPM" />
           </a>
       </p>
 </div>
