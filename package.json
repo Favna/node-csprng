@@ -6,7 +6,7 @@
     "license": "MIT",
     "main": "lib/csprng.js",
     "homepage": "http://github.com/favna/node-csprng",
-    "runkitExampleFilename": "./lib/app.js",
+    "runkitExampleFilename": "./lib/runkit.js",
     "repository": {
         "type": "git",
         "url": "git://github.com/favna/node-csprng.git"

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> csprng </h1>
+  <h1> csprng-64 </h1>
       <p>
           <a href="https://github.com/favna/node-csprng/blob/master/LICENSE.md"><!--
               --><img src="https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge" alt="license" /><!--
