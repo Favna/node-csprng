@@ -1,6 +1,6 @@
 {
     "name": "csprng-64",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Secure random numbers of any size in any base",
     "author": "Favna <sharkie.jeroen@gmail.com> (https://favna.xyz/home)",
     "license": "MIT",
