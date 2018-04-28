@@ -46,7 +46,7 @@ output.
 ```js
 const rand = require('csprng');
 
-rand(160, 36) // -> 'tq2pdxrblkbgp8vt8kbdpmzdh1w8bex'
+rand(160, 64) // -> Vvm+cq2IU6G0pV/hGewH5LbxIIN
 ```
 
 ## Contribution

@@ -14,8 +14,9 @@
         "url": "http://github.com/jcoglan/node-csprng/issues"
     },
     "scripts": {
-        "prestart": "npm install",
-        "lintfix": "./node_modules/.bin/eslint --fix **/*.js",
+        "prestart": "yarn install",
+        "start": "node lib/app.js",
+        "lint:fix": "./node_modules/.bin/eslint --fix **/*.js",
         "lint": "./node_modules/.bin/eslint **/*.js",
         "test": "node tests/tape.js | tap-summary"
     },
