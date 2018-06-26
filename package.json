@@ -36,6 +36,6 @@
     "devDependencies": {
         "eslint": "^5.0.0",
         "tap-summary": "^4.0.0",
-        "tape": "4.9.0"
+        "tape": "4.9.1"
     }
 }
