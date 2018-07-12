@@ -26,9 +26,9 @@ any magnitude and in any base from 2 to 64.
 
 using npm
 ```bash
-$ npm install csprng
+$ npm install csprng-64
 -OR-
-$ yarn add csprng
+$ yarn add csprng-64
 ```
 
 ### TypeScript Version
@@ -36,9 +36,9 @@ $ yarn add csprng
 Install `csprng.d.t` by using this:
 
 ```bash 
-$ npm install @types/csprng
+$ npm install @types/csprng064
 -OR-
-$ yarn add @types/csprng
+$ yarn add @types/csprng-64
 ```
 
 ## Usage
@@ -47,7 +47,7 @@ Call the function passing the number of required bits, and the radix of the
 output.
 
 ```js
-const rand = require('csprng');
+const rand = require('csprng-64');
 
 rand(160, 64) // -> Vvm+cq2IU6G0pV/hGewH5LbxIIN
 ```
