@@ -34,7 +34,7 @@
         "sequin": "*"
     },
     "devDependencies": {
-        "eslint": "^5.0.0",
+        "eslint": "^5.6.0",
         "tap-summary": "^4.0.0",
         "tape": "4.9.1"
     }
