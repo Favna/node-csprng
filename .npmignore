@@ -1,9 +1,0 @@
-.git
-.gitignore
-.npmignore
-.eslintrc.js
-.circleci
-lib/app.js
-yarn.lock
-node_modules
-tests
